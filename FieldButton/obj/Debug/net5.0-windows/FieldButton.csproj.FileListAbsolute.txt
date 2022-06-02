@@ -1,0 +1,12 @@
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\bin\Debug\net5.0-windows\FieldButton.deps.json
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\bin\Debug\net5.0-windows\FieldButton.dll
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\bin\Debug\net5.0-windows\ref\FieldButton.dll
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\bin\Debug\net5.0-windows\FieldButton.pdb
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.AssemblyInfo.cs
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.dll
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\ref\FieldButton.dll
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.pdb
+C:\Users\Artem\source\repos\TestingWinForms\FieldButton\obj\Debug\net5.0-windows\FieldButton.csproj.AssemblyReference.cache
