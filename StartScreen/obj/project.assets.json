@@ -2,186 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0-windows7.0": {
-      "Cell/1.0.0": {
+      "DataClasses/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Pointer": "1.0.0"
-        },
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Cell.dll": {}
+          "bin/placeholder/DataClasses.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Cell.dll": {}
+          "bin/placeholder/DataClasses.dll": {}
         }
-      },
-      "Field/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Cell": "1.0.0",
-          "pathFactory": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Field.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Field.dll": {}
-        }
-      },
-      "FieldButton/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/FieldButton.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FieldButton.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
-      "pathFactory/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Cell": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/pathFactory.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/pathFactory.dll": {}
-        }
-      },
-      "Pointer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Pointer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Pointer.dll": {}
-        }
-      },
-      "Solution window/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Field": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Solution window.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Solution window.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
-      "TemplateSelection/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Field": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/TemplateSelection.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TemplateSelection.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
-      "TestingWinForms/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Field": "1.0.0",
-          "FieldButton": "1.0.0",
-          "Solution window": "1.0.0",
-          "TemplateSelection": "1.0.0",
-          "VictoryStatsWindow": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/TestingWinForms.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TestingWinForms.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      },
-      "VictoryStatsWindow/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/VictoryStatsWindow.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/VictoryStatsWindow.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
       }
     }
   },
   "libraries": {
-    "Cell/1.0.0": {
+    "DataClasses/1.0.0": {
       "type": "project",
-      "path": "../../Pointers/Cell/Cell.csproj",
-      "msbuildProject": "../../Pointers/Cell/Cell.csproj"
-    },
-    "Field/1.0.0": {
-      "type": "project",
-      "path": "../../Pointers/Field/Field.csproj",
-      "msbuildProject": "../../Pointers/Field/Field.csproj"
-    },
-    "FieldButton/1.0.0": {
-      "type": "project",
-      "path": "../FieldButton/FieldButton.csproj",
-      "msbuildProject": "../FieldButton/FieldButton.csproj"
-    },
-    "pathFactory/1.0.0": {
-      "type": "project",
-      "path": "../../Pointers/pathFactory/pathFactory.csproj",
-      "msbuildProject": "../../Pointers/pathFactory/pathFactory.csproj"
-    },
-    "Pointer/1.0.0": {
-      "type": "project",
-      "path": "../../Pointers/Pointer/Pointer.csproj",
-      "msbuildProject": "../../Pointers/Pointer/Pointer.csproj"
-    },
-    "Solution window/1.0.0": {
-      "type": "project",
-      "path": "../Solution window/Solution window.csproj",
-      "msbuildProject": "../Solution window/Solution window.csproj"
-    },
-    "TemplateSelection/1.0.0": {
-      "type": "project",
-      "path": "../TemplateSelection/TemplateSelection.csproj",
-      "msbuildProject": "../TemplateSelection/TemplateSelection.csproj"
-    },
-    "TestingWinForms/1.0.0": {
-      "type": "project",
-      "path": "../TestingWinForms/TestingWinForms.csproj",
-      "msbuildProject": "../TestingWinForms/TestingWinForms.csproj"
-    },
-    "VictoryStatsWindow/1.0.0": {
-      "type": "project",
-      "path": "../VictoryStatsWindow/VictoryStatsWindow.csproj",
-      "msbuildProject": "../VictoryStatsWindow/VictoryStatsWindow.csproj"
+      "path": "../DataClasses/DataClasses.csproj",
+      "msbuildProject": "../DataClasses/DataClasses.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "TestingWinForms >= 1.0.0"
+      "DataClasses >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -191,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\StartScreen.csproj",
-      "projectName": "StartScreen",
-      "projectPath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\StartScreen.csproj",
+      "projectUniqueName": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\Forms.csproj",
+      "projectName": "Forms",
+      "projectPath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\Forms.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\obj\\",
       "projectStyle": "PackageReference",
@@ -216,8 +58,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\TestingWinForms\\TestingWinForms.csproj": {
-              "projectPath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\TestingWinForms\\TestingWinForms.csproj"
+            "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\DataClasses\\DataClasses.csproj": {
+              "projectPath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\DataClasses\\DataClasses.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5++ymyq6eLDRooOB7m2on3AbMeP63zwc9OjULt4xfWMDdl3QvBJg9q4FwtL0BxiYWT1TPsRY7T1KbrABsozRoA==",
+  "dgSpecHash": "lnJZ3QhYJ6H5NylvM6Jn9cQ8KasXPhgbcZtSWzBlwgdfetxhMl6Wh4J9VRcJF08cxV2Dp29YME7TAgy9crGbeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\StartScreen.csproj",
+  "projectFilePath": "C:\\Users\\Artem\\source\\repos\\TestingWinForms\\StartScreen\\Forms.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

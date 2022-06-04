@@ -15,7 +15,6 @@ C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-win
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\ref\TestingWinForms.dll
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\TestingWinForms.pdb
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\TestingWinForms.genruntimeconfig.cache
-C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\TestingWinForms.Properties.Resources.resources
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\TemplateSelection.deps.json
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\TemplateSelection.runtimeconfig.json
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\TemplateSelection.runtimeconfig.dev.json
@@ -46,3 +45,4 @@ C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-win
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\VictoryStatsWindow.exe
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\VictoryStatsWindow.dll
 C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\bin\Debug\net5.0-windows\VictoryStatsWindow.pdb
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainScreen.Properties.Resources.resources

@@ -1,0 +1,12 @@
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.AssemblyInfo.cs
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\bin\Debug\net5.0\DataClasses.deps.json
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\bin\Debug\net5.0\DataClasses.dll
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\bin\Debug\net5.0\ref\DataClasses.dll
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\bin\Debug\net5.0\DataClasses.pdb
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.dll
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\ref\DataClasses.dll
+C:\Users\Artem\source\repos\TestingWinForms\DataClasses\obj\Debug\net5.0\DataClasses.pdb

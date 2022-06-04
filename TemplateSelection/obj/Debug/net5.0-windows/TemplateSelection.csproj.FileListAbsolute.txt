@@ -6,7 +6,6 @@ C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-w
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-windows\ref\TemplateSelection.dll
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-windows\TemplateSelection.pdb
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.csproj.AssemblyReference.cache
-C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.Form1.resources
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.Properties.Resources.resources
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.csproj.GenerateResource.cache
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.GeneratedMSBuildEditorConfig.editorconfig
@@ -26,3 +25,4 @@ C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-w
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-windows\pathFactory.pdb
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\bin\Debug\net5.0-windows\Pointer.pdb
 C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.csproj.CopyComplete
+C:\Users\Artem\source\repos\TestingWinForms\TemplateSelection\obj\Debug\net5.0-windows\TemplateSelection.SelectionWindow.resources
