@@ -19,8 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pathFactory", "..\Pointers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.csproj", "{CCA4813E-8F04-48E2-AEA1-5E0B54B43217}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTesting", "NewTesting\NewTesting.csproj", "{5B3E4F73-4B26-4800-A370-78AF48B127B1}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution window", "Solution window\Solution window.csproj", "{B001F6C9-B8FE-4469-8577-16E392A0B2CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieldButton", "FieldButton\FieldButton.csproj", "{8F2CA83A-1287-4B9B-AB6D-6988693E000C}"
@@ -67,10 +65,6 @@ Global
 		{CCA4813E-8F04-48E2-AEA1-5E0B54B43217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA4813E-8F04-48E2-AEA1-5E0B54B43217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA4813E-8F04-48E2-AEA1-5E0B54B43217}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B3E4F73-4B26-4800-A370-78AF48B127B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B3E4F73-4B26-4800-A370-78AF48B127B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B3E4F73-4B26-4800-A370-78AF48B127B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B3E4F73-4B26-4800-A370-78AF48B127B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B001F6C9-B8FE-4469-8577-16E392A0B2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B001F6C9-B8FE-4469-8577-16E392A0B2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B001F6C9-B8FE-4469-8577-16E392A0B2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -43,10 +43,7 @@ namespace TestingWinForms
         private void Pointers_Load(object sender, EventArgs e)
         {
             mainField = FieldInstance.templates[0];
-            buttonReferences.Push(button1);
             SyncData();
-            ticks = 0;
-            timer1.Start();
         }
 
         private void button26_Click(object sender, EventArgs e)
@@ -85,8 +82,6 @@ namespace TestingWinForms
         public void SyncData()
         {
             SetInitialValues();
-            this.button1.queueNumber = "1";
-            this.button25.queueNumber = "25";
             buttonReferences.Push(button1);
             FieldButton.FieldButton[] fieldButtons = new FieldButton.FieldButton[] { button1, button2, button3, button4, button5, button6, button7, button8, button9, button10, button11, button12, button13, button14, button15, button16, button17, button18, button19, button20, button21, button22, button23, button24, button25 };
             for (int i = 0; i < 25; i++)
@@ -150,25 +145,24 @@ namespace TestingWinForms
             if (buttonReferences.Count == 24)
             {
                 PressFieldButton(button25);
-            }
-
-            if (CheckIfTheWayIsRight())
-            {
-                //MessageBox.Show("Перемога!!!");
-                foreach(var a in buttonReferences)
+                if (CheckIfTheWayIsRight())
                 {
-                    a.Enabled = false;
+                    foreach (var a in buttonReferences)
+                    {
+                        a.Enabled = false;
+                    }
+                    button29.Enabled = false;
+                    timer1.Stop();
+                    VictoryStatsWindow.VictoryStats tempWindow = new VictoryStatsWindow.VictoryStats(ticks, true, ifWasHelped);
+                    tempWindow.Show();
+                    ifWasHelped = false;
+                    button31.Enabled = false;
                 }
-                button29.Enabled = false;
-                timer1.Stop();
-                VictoryStatsWindow.VictoryStats tempWindow = new VictoryStatsWindow.VictoryStats(ticks, true, ifWasHelped);
-                tempWindow.Show();
-                ifWasHelped = false;
-                button31.Enabled = false;
-            }
-            else
-            {
-                MessageBox.Show("Неправильний шлях");
+                else
+                {
+                    MessageBox.Show("Неправильний шлях");
+                }
+
             }
         }
 
@@ -179,6 +173,8 @@ namespace TestingWinForms
         public void SetInitialValues()
         {
             WipeQueueData();
+            this.button1.queueNumber = "1";
+            this.button25.queueNumber = "25";
             FieldButton.FieldButton[] fieldButtons = new FieldButton.FieldButton[] { button1, button2, button3, button4, button5, button6, button7, button8, button9, button10, button11, button12, button13, button14, button15, button16, button17, button18, button19, button20, button21, button22, button23, button24, button25 };
             int seventeenth = mainField.GetSeventeenth();
             fieldButtons[seventeenth].queueNumber = "17";
@@ -208,18 +204,17 @@ namespace TestingWinForms
         public static void PressFieldButton( FieldButton.FieldButton button)
         {
             int[] playersMoves = GetArrayOfNumbersOfButtons();
-            if (mainField.GetMatrixOfPossibleMoves()[buttonReferences.Peek().GetNumberOfButton()].Contains(button.GetNumberOfButton()) & !playersMoves.Contains(button.GetNumberOfButton()))
+            if (mainField.GetMatrixOfPossibleMoves()[buttonReferences.Peek().GetNumberOfButton()].Contains(button.GetNumberOfButton()) && !playersMoves.Contains(button.GetNumberOfButton()))
             {
                 if (!((playersMoves.Count() != 16) ^ (button.GetNumberOfButton() != mainField.GetSeventeenth())))
                 {
-                    button.queueNumber = (playersMoves.Length + 1).ToString();
+                    button.queueNumber = (buttonReferences.Count + 1).ToString();
                     buttonReferences.Push(button);
                 }
                 else
                 {
                     MessageBox.Show("Нелегальний хід");
                 }
-
             }
             else
             {
@@ -365,5 +360,9 @@ namespace TestingWinForms
             }
             button29.Enabled = false;
         }
+    }
+
+    public class Class1
+    {
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\TestingWinForms.Pointers.resources
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.Properties.Resources.resources
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.AssemblyInfo.cs
+C:\Users\Artem\source\repos\TestingWinForms\TestingWinForms\obj\Debug\net5.0-windows\MainForm.csproj.CoreCompileInputs.cache

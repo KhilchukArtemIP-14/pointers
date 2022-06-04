@@ -5,11 +5,8 @@ namespace FieldButton
 {
     public class FieldButton : Button
     {
-        //private static int numberOfInstances = 0;
         public FieldButton()
         {
-            //this.numberOfButton = Convert.ToInt32(numberOfInstances.ToString());
-            //numberOfInstances += 1;
             UseVisualStyleBackColor = false;
             TextImageRelation = TextImageRelation.ImageAboveText;
         }
