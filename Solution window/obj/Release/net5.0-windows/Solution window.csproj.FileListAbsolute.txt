@@ -1,0 +1,28 @@
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.exe
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.deps.json
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.runtimeconfig.json
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\ref\Solution window.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Solution window.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Cell.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Field.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\pathFactory.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Pointer.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Field.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Cell.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\pathFactory.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\bin\Release\net5.0-windows\Pointer.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution_window.Properties.Resources.resources
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution_window.SolutionWindow.resources
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.AssemblyInfo.cs
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.csproj.CopyComplete
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\ref\Solution window.dll
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.pdb
+C:\Users\Artem\source\repos\TestingWinForms\Solution window\obj\Release\net5.0-windows\Solution window.genruntimeconfig.cache
